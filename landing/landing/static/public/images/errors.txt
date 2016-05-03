@@ -1,0 +1,9 @@
+[Tue Apr 12 2016 15:59:56 GMT+0200 (Central European Daylight Time)] layer "FIRST ONLINE GAMING ACADEMY.txt": Unsupported extension: txt
+[Tue Apr 12 2016 15:59:56 GMT+0200 (Central European Daylight Time)] layer "BECOME ONE OF THE FIRST USERS OF THE PLATFORM NOW AND HAVE PRIV.txt": Unsupported extension: txt
+[Tue Apr 12 2016 15:59:56 GMT+0200 (Central European Daylight Time)] layer "LOG IN     SIGN IN.txt": Unsupported extension: txt
+[Tue Apr 12 2016 15:59:56 GMT+0200 (Central European Daylight Time)] layer "Learn from the best professional gamers in the world for free!.txt": Unsupported extension: txt
+[Tue Apr 12 2016 15:59:56 GMT+0200 (Central European Daylight Time)] layer "Ellipse 2 copy.png": Duplicate path: Ellipse 2 copy.png
+[Tue Apr 12 2016 15:59:56 GMT+0200 (Central European Daylight Time)] layer "Ellipse 2 copy.png": Duplicate path: Ellipse 2 copy.png
+[Tue Apr 12 2016 15:59:56 GMT+0200 (Central European Daylight Time)] layer "Ellipse 2 copy.png": Duplicate path: Ellipse 2 copy.png
+[Tue Apr 12 2016 15:59:56 GMT+0200 (Central European Daylight Time)] layer "Ellipse 2 copy.png": Duplicate path: Ellipse 2 copy.png
+[Tue Apr 12 2016 15:59:56 GMT+0200 (Central European Daylight Time)] layer "contact_us.txt": Unsupported extension: txt

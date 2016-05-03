@@ -1,0 +1,1776 @@
+.sve {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 4687px;
+  z-index: 223;
+}
+.Main_Banner {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 4687px;
+  z-index: 222;
+}
+.logo {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 4687px;
+  z-index: 221;
+}
+.learn_more {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 4687px;
+  z-index: 218;
+}
+.LEARN_MORE {
+  font-size: 28px;
+  font-family: "Lato";
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  line-height: 1.177;
+  text-align: center;
+  -moz-transform: matrix( 0.63636363636364,0,0,0.64179104477612,0,0);
+  -webkit-transform: matrix( 0.63636363636364,0,0,0.64179104477612,0,0);
+  -ms-transform: matrix( 0.63636363636364,0,0,0.64179104477612,0,0);
+  position: absolute;
+  left: 762.598px;
+  top: 574.838px;
+  width: 181.408px;
+  height: 21px;
+  z-index: 217;
+}
+.learnmore_rectangle_glow_png {
+  border-style: solid;
+  border-width: 3px;
+  border-color: rgb(255, 255, 255);
+  border-radius: 3px;
+  background-color: rgba(246, 150, 121, 0);
+  position: absolute;
+  left: 820px;
+  top: 502px;
+  width: 319px;
+  height: 107px;
+  z-index: 216;
+}
+.learnmore_rectangle_png {
+  border-style: solid;
+  border-width: 3px;
+  border-color: rgb(255, 255, 255);
+  border-radius: 3px;
+  background-image: -moz-linear-gradient( 90deg, rgb(212,110,0) 0%, rgb(255,132,0) 100%);
+  background-image: -webkit-linear-gradient( 90deg, rgb(212,110,0) 0%, rgb(255,132,0) 100%);
+  background-image: -ms-linear-gradient( 90deg, rgb(212,110,0) 0%, rgb(255,132,0) 100%);
+  position: absolute;
+  left: 840px;
+  top: 522px;
+  width: 278px;
+  height: 66px;
+  z-index: 215;
+}
+.Apply_for_beta {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 4687px;
+  z-index: 213;
+}
+.APPLY_FOR_BETA {
+  font-size: 28px;
+  font-family: "Lato";
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  line-height: 1.177;
+  text-align: center;
+  -moz-transform: matrix( 0.63636363636364,0,0,0.64179104477612,0,0);
+  -webkit-transform: matrix( 0.63636363636364,0,0,0.64179104477612,0,0);
+  -ms-transform: matrix( 0.63636363636364,0,0,0.64179104477612,0,0);
+  position: absolute;
+  left: 432.495px;
+  top: 574.838px;
+  width: 229.847px;
+  height: 21px;
+  z-index: 212;
+}
+.applyforbeta_glow_png {
+  border-style: solid;
+  border-width: 3px;
+  border-color: rgb(255, 255, 255);
+  border-radius: 3px;
+  background-color: rgba(246, 150, 121, 0);
+  position: absolute;
+  left: 490px;
+  top: 502px;
+  width: 319px;
+  height: 107px;
+  z-index: 211;
+}
+.applyforbeta_normal_png {
+  border-style: solid;
+  border-width: 3px;
+  border-color: rgb(255, 255, 255);
+  border-radius: 3px;
+  background-color: rgba(246, 150, 121, 0);
+  position: absolute;
+  left: 510px;
+  top: 522px;
+  width: 278px;
+  height: 66px;
+  z-index: 210;
+}
+.Learn_from_the_best_professional_gamers_in_the_ {
+  font-size: 36px;
+  font-family: "Times New Roman";
+  color: rgba(255, 255, 255, 0.702);
+  font-weight: bold;
+  font-style: italic;
+  line-height: 0.833;
+  text-shadow: 0px 1px 40px rgba(1, 1, 1, 0.55);
+  position: absolute;
+  left: 246.696px;
+  top: 313.088px;
+  z-index: 208;
+}
+.LOG_IN_____SIGN_IN_txt {
+  font-size: 14px;
+  font-family: "Lato";
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  line-height: 2.143;
+  text-shadow: 0px 1px 40px rgba(1, 1, 1, 0.55);
+  position: absolute;
+  left: 1283.984px;
+  top: 51.499px;
+  z-index: 207;
+}
+.BECOME_ONE_OF_THE_FIRST_USERS_OF_THE_PLATFORM_N {
+  font-size: 14px;
+  font-family: "Lato";
+  color: rgb(255, 255, 255);
+  line-height: 2.143;
+  text-shadow: 0px 1px 40px rgba(1, 1, 1, 0.55);
+  position: absolute;
+  left: 440.781px;
+  top: 431.499px;
+  z-index: 206;
+}
+.FIRST_ONLINE_GAMING_ACADEMY_txt {
+  font-size: 48px;
+  font-family: "Lato";
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  line-height: 0.625;
+  text-shadow: 0px 1px 40px rgba(1, 1, 1, 0.55);
+  position: absolute;
+  left: 340.5px;
+  top: 379.5px;
+  z-index: 205;
+}
+.shadow_png {
+  background-image: url("newlanding-Recovered-assets/shadow.png");
+  opacity: 0.671;
+  position: absolute;
+  left: -1px;
+  top: 664px;
+  width: 1600px;
+  height: 227px;
+  z-index: 204;
+}
+.Content {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 4687px;
+  z-index: 201;
+}
+.numbers {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 4687px;
+  z-index: 200;
+}
+.Group_2_copy_4 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 4687px;
+  z-index: 199;
+}
+.Tournaments_Created {
+  font-size: 16px;
+  font-family: "Lato";
+  color: rgb(0, 0, 0);
+  line-height: 1.125;
+  text-align: left;
+  position: absolute;
+  left: 1239px;
+  top: 4517.5px;
+  z-index: 198;
+}
+._2_182 {
+  font-size: 36px;
+  font-family: "Lato";
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  line-height: 0.833;
+  position: absolute;
+  left: 1273.484px;
+  top: 4504.992px;
+  z-index: 197;
+}
+.page_clicks {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 4687px;
+  z-index: 195;
+}
+.Page_Clicks {
+  font-size: 16px;
+  font-family: "Lato";
+  color: rgb(0, 0, 0);
+  line-height: 1.125;
+  text-align: left;
+  position: absolute;
+  left: 1016px;
+  top: 4535.434px;
+  z-index: 194;
+}
+._5_156_581 {
+  font-size: 36px;
+  font-family: "Lato";
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  line-height: 0.833;
+  position: absolute;
+  left: 970.625px;
+  top: 4504.992px;
+  z-index: 193;
+}
+.active_creators {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 4687px;
+  z-index: 191;
+}
+.Active_Creators {
+  font-size: 16px;
+  font-family: "Lato";
+  color: rgb(0, 0, 0);
+  line-height: 1.125;
+  text-align: left;
+  position: absolute;
+  left: 735.875px;
+  top: 4518.5px;
+  z-index: 190;
+}
+._8_173 {
+  font-size: 36px;
+  font-family: "Lato";
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  line-height: 0.833;
+  position: absolute;
+  left: 744.594px;
+  top: 4504.992px;
+  z-index: 189;
+}
+.active_users {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 4687px;
+  z-index: 187;
+}
+.Active_Users {
+  font-size: 16px;
+  font-family: "Lato";
+  color: rgb(0, 0, 0);
+  line-height: 1.125;
+  text-align: left;
+  position: absolute;
+  left: 485.875px;
+  top: 4518.5px;
+  z-index: 186;
+}
+._231_729 {
+  font-size: 36px;
+  font-family: "Lato";
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  line-height: 0.833;
+  position: absolute;
+  left: 459.484px;
+  top: 4504.992px;
+  z-index: 185;
+}
+.courses {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 4687px;
+  z-index: 183;
+}
+.Courses_Available {
+  font-size: 16px;
+  font-family: "Lato";
+  color: rgb(0, 0, 0);
+  line-height: 1.125;
+  text-align: left;
+  position: absolute;
+  left: 208px;
+  top: 4518.5px;
+  z-index: 182;
+}
+._13_467 {
+  font-size: 36px;
+  font-family: "Lato";
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  line-height: 0.833;
+  position: absolute;
+  left: 209.031px;
+  top: 4504.992px;
+  z-index: 181;
+}
+.creators_on_mellon {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 4687px;
+  z-index: 178;
+}
+.dignitas {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 4687px;
+  z-index: 177;
+}
+._1_437_Courses {
+  font-size: 36px;
+  font-family: "Times New Roman";
+  color: rgba(255, 255, 255, 0.902);
+  font-weight: bold;
+  font-style: italic;
+  line-height: 0.833;
+  text-shadow: 0px 1px 40px rgba(1, 1, 1, 0.55);
+  -moz-transform: matrix( 0.42768787466424,0,0,0.42687747035573,0,0);
+  -webkit-transform: matrix( 0.42768787466424,0,0,0.42687747035573,0,0);
+  -ms-transform: matrix( 0.42768787466424,0,0,0.42687747035573,0,0);
+  position: absolute;
+  left: 1325.482px;
+  top: 4261.506px;
+  z-index: 176;
+}
+.DIGNITAS {
+  font-size: 84.333px;
+  font-family: "Lato";
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  line-height: 0.356;
+  text-shadow: 0px 1px 40px rgba(1, 1, 1, 0.55);
+  -moz-transform: matrix( 0.42768787466424,0,0,0.42687747035573,0,0);
+  -webkit-transform: matrix( 0.42768787466424,0,0,0.42687747035573,0,0);
+  -ms-transform: matrix( 0.42768787466424,0,0,0.42687747035573,0,0);
+  position: absolute;
+  left: 1229.614px;
+  top: 4292.489px;
+  z-index: 175;
+}
+.dignitas_jpg {
+  background-image: url("newlanding-Recovered-assets/dignitas.jpg");
+  position: absolute;
+  left: 1275px;
+  top: 4189px;
+  width: 328px;
+  height: 233px;
+  z-index: 174;
+}
+.faker {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 4687px;
+  z-index: 172;
+}
+._427_Courses {
+  font-size: 36px;
+  font-family: "Times New Roman";
+  color: rgba(255, 255, 255, 0.902);
+  font-weight: bold;
+  font-style: italic;
+  line-height: 0.833;
+  -moz-transform: matrix( 0.42768787466424,0,0,0.42687747035573,0,0);
+  -webkit-transform: matrix( 0.42768787466424,0,0,0.42687747035573,0,0);
+  -ms-transform: matrix( 0.42768787466424,0,0,0.42687747035573,0,0);
+  position: absolute;
+  left: 1019.985px;
+  top: 4260.006px;
+  z-index: 171;
+}
+.FAKER {
+  font-size: 84.333px;
+  font-family: "Lato";
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  line-height: 0.356;
+  text-shadow: 0px 1px 40px rgba(1, 1, 1, 0.55);
+  -moz-transform: matrix( 0.42768787466424,0,0,0.42687747035573,0,0);
+  -webkit-transform: matrix( 0.42768787466424,0,0,0.42687747035573,0,0);
+  -ms-transform: matrix( 0.42768787466424,0,0,0.42687747035573,0,0);
+  position: absolute;
+  left: 980.455px;
+  top: 4292.489px;
+  z-index: 170;
+}
+.faker_png {
+  background-image: url("newlanding-Recovered-assets/faker.png");
+  position: absolute;
+  left: 955px;
+  top: 4189px;
+  width: 328px;
+  height: 233px;
+  z-index: 169;
+}
+.febvien {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 4687px;
+  z-index: 167;
+}
+._145_Courses {
+  font-size: 36px;
+  font-family: "Times New Roman";
+  color: rgba(255, 255, 255, 0.902);
+  font-weight: bold;
+  font-style: italic;
+  line-height: 0.833;
+  text-shadow: 0px 1px 40px rgba(1, 1, 1, 0.55);
+  -moz-transform: matrix( 0.42768787466424,0,0,0.42687747035573,0,0);
+  -webkit-transform: matrix( 0.42768787466424,0,0,0.42687747035573,0,0);
+  -ms-transform: matrix( 0.42768787466424,0,0,0.42687747035573,0,0);
+  position: absolute;
+  left: 700.282px;
+  top: 4261.506px;
+  z-index: 166;
+}
+.FEBVIEN {
+  font-size: 84.333px;
+  font-family: "Lato";
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  line-height: 0.356;
+  text-shadow: 0px 1px 40px rgba(1, 1, 1, 0.55);
+  -moz-transform: matrix( 0.42768787466424,0,0,0.42687747035573,0,0);
+  -webkit-transform: matrix( 0.42768787466424,0,0,0.42687747035573,0,0);
+  -ms-transform: matrix( 0.42768787466424,0,0,0.42687747035573,0,0);
+  position: absolute;
+  left: 611.994px;
+  top: 4292.989px;
+  z-index: 165;
+}
+.febvien_png {
+  background-image: url("newlanding-Recovered-assets/febvien.png");
+  position: absolute;
+  left: 635px;
+  top: 4189px;
+  width: 328px;
+  height: 233px;
+  z-index: 164;
+}
+.uol {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 4687px;
+  z-index: 162;
+}
+._529_Courses {
+  font-size: 36px;
+  font-family: "Times New Roman";
+  color: rgba(255, 255, 255, 0.902);
+  font-weight: bold;
+  font-style: italic;
+  line-height: 0.833;
+  text-shadow: 0px 1px 40px rgba(1, 1, 1, 0.55);
+  -moz-transform: matrix( 0.42768787466424,0,0,0.42687747035573,0,0);
+  -webkit-transform: matrix( 0.42768787466424,0,0,0.42687747035573,0,0);
+  -ms-transform: matrix( 0.42768787466424,0,0,0.42687747035573,0,0);
+  position: absolute;
+  left: 379.985px;
+  top: 4261.506px;
+  z-index: 161;
+}
+.UNICORNS_OF_LOVE {
+  font-size: 84.333px;
+  font-family: "Lato";
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  line-height: 0.828;
+  text-align: center;
+  text-shadow: 0px 1px 40px rgba(1, 1, 1, 0.55);
+  -moz-transform: matrix( 0.42768787466424,0,0,0.42687747035573,0,0);
+  -webkit-transform: matrix( 0.42768787466424,0,0,0.42687747035573,0,0);
+  -ms-transform: matrix( 0.42768787466424,0,0,0.42687747035573,0,0);
+  position: absolute;
+  left: 250.961px;
+  top: 4322.766px;
+  z-index: 160;
+}
+.uol_png {
+  background-image: url("newlanding-Recovered-assets/uol.png");
+  position: absolute;
+  left: 315px;
+  top: 4189px;
+  width: 328px;
+  height: 233px;
+  z-index: 159;
+}
+.huni {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 4687px;
+  z-index: 157;
+}
+._237_Courses {
+  font-size: 36px;
+  font-family: "Times New Roman";
+  color: rgba(255, 255, 255, 0.902);
+  font-weight: bold;
+  font-style: italic;
+  line-height: 0.833;
+  text-shadow: 0px 1px 40px rgba(1, 1, 1, 0.55);
+  -moz-transform: matrix( 0.42768787466424,0,0,0.42687747035573,0,0);
+  -webkit-transform: matrix( 0.42768787466424,0,0,0.42687747035573,0,0);
+  -ms-transform: matrix( 0.42768787466424,0,0,0.42687747035573,0,0);
+  position: absolute;
+  left: 60.985px;
+  top: 4261.506px;
+  z-index: 156;
+}
+.HUNI {
+  font-size: 84.333px;
+  font-family: "Lato";
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  line-height: 0.356;
+  text-shadow: 0px 1px 40px rgba(1, 1, 1, 0.55);
+  -moz-transform: matrix( 0.42768787466424,0,0,0.42687747035573,0,0);
+  -webkit-transform: matrix( 0.42768787466424,0,0,0.42687747035573,0,0);
+  -ms-transform: matrix( 0.42768787466424,0,0,0.42687747035573,0,0);
+  position: absolute;
+  left: 45.23px;
+  top: 4292.989px;
+  z-index: 155;
+}
+.huni_png {
+  background-image: url("newlanding-Recovered-assets/huni.png");
+  position: absolute;
+  left: -5px;
+  top: 4189px;
+  width: 328px;
+  height: 233px;
+  z-index: 154;
+}
+.julia {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 4687px;
+  z-index: 152;
+}
+._137_Courses {
+  font-size: 36px;
+  font-family: "Times New Roman";
+  color: rgba(255, 255, 255, 0.902);
+  font-weight: bold;
+  font-style: italic;
+  line-height: 0.833;
+  text-shadow: 0px 1px 40px rgba(1, 1, 1, 0.55);
+  -moz-transform: matrix( 0.42768787466424,0,0,0.42687747035573,0,0);
+  -webkit-transform: matrix( 0.42768787466424,0,0,0.42687747035573,0,0);
+  -ms-transform: matrix( 0.42768787466424,0,0,0.42687747035573,0,0);
+  position: absolute;
+  left: 1340.282px;
+  top: 4036.506px;
+  z-index: 151;
+}
+.JULIA {
+  font-size: 84.333px;
+  font-family: "Lato";
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  line-height: 0.356;
+  text-shadow: 0px 1px 40px rgba(1, 1, 1, 0.55);
+  -moz-transform: matrix( 0.42768787466424,0,0,0.42687747035573,0,0);
+  -webkit-transform: matrix( 0.42768787466424,0,0,0.42687747035573,0,0);
+  -ms-transform: matrix( 0.42768787466424,0,0,0.42687747035573,0,0);
+  position: absolute;
+  left: 1316.847px;
+  top: 4067.489px;
+  z-index: 150;
+}
+.julia_png {
+  background-image: url("newlanding-Recovered-assets/julia.png");
+  position: absolute;
+  left: 1275px;
+  top: 3964px;
+  width: 328px;
+  height: 233px;
+  z-index: 149;
+}
+.kaznakru {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 4687px;
+  z-index: 147;
+}
+._974_Courses {
+  font-size: 36px;
+  font-family: "Times New Roman";
+  color: rgba(255, 255, 255, 0.902);
+  font-weight: bold;
+  font-style: italic;
+  line-height: 0.833;
+  text-shadow: 0px 1px 40px rgba(1, 1, 1, 0.55);
+  -moz-transform: matrix( 0.42768787466424,0,0,0.42687747035573,0,0);
+  -webkit-transform: matrix( 0.42768787466424,0,0,0.42687747035573,0,0);
+  -ms-transform: matrix( 0.42768787466424,0,0,0.42687747035573,0,0);
+  position: absolute;
+  left: 1019.797px;
+  top: 4036.506px;
+  z-index: 146;
+}
+.KAZNA_KRU {
+  font-size: 84.333px;
+  font-family: "Lato";
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  line-height: 0.356;
+  text-shadow: 0px 1px 40px rgba(1, 1, 1, 0.55);
+  -moz-transform: matrix( 0.42768787466424,0,0,0.42687747035573,0,0);
+  -webkit-transform: matrix( 0.42768787466424,0,0,0.42687747035573,0,0);
+  -ms-transform: matrix( 0.42768787466424,0,0,0.42687747035573,0,0);
+  position: absolute;
+  left: 855.668px;
+  top: 4067.489px;
+  z-index: 145;
+}
+.Layer_25_png {
+  background-image: url("newlanding-Recovered-assets/Layer 25.png");
+  position: absolute;
+  left: 955px;
+  top: 3964px;
+  width: 328px;
+  height: 233px;
+  z-index: 144;
+}
+.kviin {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 4687px;
+  z-index: 142;
+}
+._267_Courses {
+  font-size: 36px;
+  font-family: "Times New Roman";
+  color: rgba(255, 255, 255, 0.902);
+  font-weight: bold;
+  font-style: italic;
+  line-height: 0.833;
+  text-shadow: 0px 1px 40px rgba(1, 1, 1, 0.55);
+  -moz-transform: matrix( 0.42768787466424,0,0,0.42687747035573,0,0);
+  -webkit-transform: matrix( 0.42768787466424,0,0,0.42687747035573,0,0);
+  -ms-transform: matrix( 0.42768787466424,0,0,0.42687747035573,0,0);
+  position: absolute;
+  left: 704.985px;
+  top: 4036.506px;
+  z-index: 141;
+}
+.KVIIN {
+  font-size: 84.333px;
+  font-family: "Lato";
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  line-height: 0.356;
+  text-shadow: 0px 1px 40px rgba(1, 1, 1, 0.55);
+  -moz-transform: matrix( 0.42768787466424,0,0,0.42687747035573,0,0);
+  -webkit-transform: matrix( 0.42768787466424,0,0,0.42687747035573,0,0);
+  -ms-transform: matrix( 0.42768787466424,0,0,0.42687747035573,0,0);
+  position: absolute;
+  left: 680.771px;
+  top: 4067.489px;
+  z-index: 140;
+}
+.kaznakru_png {
+  background-image: url("newlanding-Recovered-assets/kaznakru.png");
+  position: absolute;
+  left: 635px;
+  top: 3964px;
+  width: 328px;
+  height: 233px;
+  z-index: 139;
+}
+.perkz {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 4687px;
+  z-index: 137;
+}
+._856_Courses {
+  font-size: 36px;
+  font-family: "Times New Roman";
+  color: rgba(255, 255, 255, 0.902);
+  font-weight: bold;
+  font-style: italic;
+  line-height: 0.833;
+  text-shadow: 0px 1px 40px rgba(1, 1, 1, 0.55);
+  -moz-transform: matrix( 0.42768787466424,0,0,0.42687747035573,0,0);
+  -webkit-transform: matrix( 0.42768787466424,0,0,0.42687747035573,0,0);
+  -ms-transform: matrix( 0.42768787466424,0,0,0.42687747035573,0,0);
+  position: absolute;
+  left: 380.985px;
+  top: 4036.506px;
+  z-index: 136;
+}
+.PERKZ {
+  font-size: 84.333px;
+  font-family: "Lato";
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  line-height: 0.356;
+  text-shadow: 0px 1px 40px rgba(1, 1, 1, 0.55);
+  -moz-transform: matrix( 0.42768787466424,0,0,0.42687747035573,0,0);
+  -webkit-transform: matrix( 0.42768787466424,0,0,0.42687747035573,0,0);
+  -ms-transform: matrix( 0.42768787466424,0,0,0.42687747035573,0,0);
+  position: absolute;
+  left: 335.005px;
+  top: 4067.489px;
+  z-index: 135;
+}
+.Layer_5_png {
+  background-image: url("newlanding-Recovered-assets/Layer 5.png");
+  position: absolute;
+  left: 319px;
+  top: 3968px;
+  width: 320px;
+  height: 225px;
+  z-index: 133;
+}
+.dendi {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 4687px;
+  z-index: 131;
+}
+._163_Courses {
+  font-size: 36px;
+  font-family: "Times New Roman";
+  color: rgba(255, 255, 255, 0.902);
+  font-weight: bold;
+  font-style: italic;
+  line-height: 0.833;
+  text-shadow: 0px 1px 40px rgba(1, 1, 1, 0.55);
+  -moz-transform: matrix( 0.42768787466424,0,0,0.42687747035573,0,0);
+  -webkit-transform: matrix( 0.42768787466424,0,0,0.42687747035573,0,0);
+  -ms-transform: matrix( 0.42768787466424,0,0,0.42687747035573,0,0);
+  position: absolute;
+  left: 60.282px;
+  top: 4036.506px;
+  z-index: 130;
+}
+.DENIDI {
+  font-size: 84.333px;
+  font-family: "Lato";
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  line-height: 0.356;
+  text-shadow: 0px 1px 40px rgba(1, 1, 1, 0.55);
+  -moz-transform: matrix( 0.42768787466424,0,0,0.42687747035573,0,0);
+  -webkit-transform: matrix( 0.42768787466424,0,0,0.42687747035573,0,0);
+  -ms-transform: matrix( 0.42768787466424,0,0,0.42687747035573,0,0);
+  position: absolute;
+  left: 8.169px;
+  top: 4063.489px;
+  z-index: 129;
+}
+.perkzz_png {
+  background-image: url("newlanding-Recovered-assets/perkzz.png");
+  position: absolute;
+  left: -1px;
+  top: 3968px;
+  width: 320px;
+  height: 225px;
+  z-index: 127;
+}
+.TOP_CREATORS_ON_MELLON {
+  font-size: 18px;
+  font-family: "Lato";
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  line-height: 1.667;
+  position: absolute;
+  left: 662.781px;
+  top: 3894.997px;
+  z-index: 125;
+}
+.team {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 4687px;
+  z-index: 123;
+}
+.TEAM {
+  font-size: 30px;
+  font-family: "Lato";
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 759.64px;
+  top: 2742px;
+  z-index: 122;
+}
+.bgbehindlogos_png {
+  border-radius: 10px;
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: -19px;
+  top: 3235px;
+  width: 1676px;
+  height: 103px;
+  z-index: 118;
+}
+.Contact {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 4687px;
+  z-index: 116;
+}
+.message_rectangle_png {
+  border-style: solid;
+  border-width: 3px;
+  border-color: rgb(255, 255, 255);
+  border-radius: 6px;
+  background-color: rgba(246, 150, 121, 0);
+  position: absolute;
+  left: 799px;
+  top: 3607px;
+  width: 502px;
+  height: 125px;
+  z-index: 115;
+}
+.name_rectangle_png {
+  border-style: solid;
+  border-width: 3px;
+  border-color: rgb(255, 255, 255);
+  border-radius: 4px;
+  background-color: rgba(246, 150, 121, 0);
+  position: absolute;
+  left: 799px;
+  top: 3508px;
+  width: 502px;
+  height: 66px;
+  z-index: 114;
+}
+.contact_us_txt {
+  font-size: 36px;
+  font-family: "Lato";
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  line-height: 1;
+  text-align: center;
+  position: absolute;
+  left: 60.89px;
+  top: 3369px;
+  z-index: 113;
+}
+.SUBMIT {
+  font-size: 30px;
+  font-family: "Lato";
+  color: rgb(255, 255, 255);
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 1139.125px;
+  top: 3782.5px;
+  z-index: 112;
+}
+.Message {
+  font-size: 30px;
+  font-family: "Lato";
+  color: rgb(255, 255, 255);
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 822.39px;
+  top: 3660.253px;
+  z-index: 111;
+}
+.name_lastname {
+  font-size: 30px;
+  font-family: "Lato";
+  color: rgb(255, 255, 255);
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 820.391px;
+  top: 3526.5px;
+  z-index: 110;
+}
+.mail_placeholder {
+  font-size: 30px;
+  font-family: "Lato";
+  color: rgb(255, 255, 255);
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 819.797px;
+  top: 3464.253px;
+  z-index: 109;
+}
+.submit_rectangle_png {
+  border-style: solid;
+  border-width: 3px;
+  border-color: rgb(255, 255, 255);
+  border-radius: 3px;
+  background-color: rgba(246, 150, 121, 0);
+  position: absolute;
+  left: 1081px;
+  top: 3764px;
+  width: 220px;
+  height: 66px;
+  z-index: 108;
+}
+.your_email_rectangle_png {
+  border-style: solid;
+  border-width: 3px;
+  border-color: rgb(255, 255, 255);
+  border-radius: 4px;
+  background-color: rgba(246, 150, 121, 0);
+  position: absolute;
+  left: 799px;
+  top: 3409px;
+  width: 502px;
+  height: 66px;
+  z-index: 107;
+}
+.shadowcontact_png {
+  background-image: url("newlanding-Recovered-assets/shadowcontact.png");
+  opacity: 0.161;
+  position: absolute;
+  left: 0px;
+  top: 3017px;
+  width: 1600px;
+  height: 409px;
+  z-index: 106;
+}
+.bg_contact_png {
+  background-image: url("newlanding-Recovered-assets/bg_contact.png");
+  position: absolute;
+  left: 0px;
+  top: 3319px;
+  width: 1602px;
+  height: 550px;
+  z-index: 105;
+}
+.team {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 4687px;
+  z-index: 103;
+}
+.Group_1 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 4687px;
+  z-index: 102;
+}
+.dots {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 4687px;
+  z-index: 101;
+}
+.sliderswitch_png {
+  border-radius: 50%;
+  background-color: rgb(0, 0, 0);
+  opacity: 0.251;
+  position: absolute;
+  left: 820px;
+  top: 3144px;
+  width: 10px;
+  height: 10px;
+  z-index: 100;
+}
+.sliderswitch2_png {
+  border-radius: 50%;
+  background-color: rgb(0, 0, 0);
+  opacity: 0.251;
+  position: absolute;
+  left: 800px;
+  top: 3144px;
+  width: 10px;
+  height: 10px;
+  z-index: 99;
+}
+.sliderswitch3_png {
+  border-radius: 50%;
+  background-color: rgb(0, 0, 0);
+  position: absolute;
+  left: 780px;
+  top: 3144px;
+  width: 10px;
+  height: 10px;
+  z-index: 98;
+}
+.avatar {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 4687px;
+  z-index: 96;
+}
+.sandi {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 4687px;
+  z-index: 95;
+}
+.Sandi_Fati�___CEO__Skillful_software_engineer_a {
+  font-size: 30px;
+  font-family: "Lato";
+  color: rgb(0, 0, 0);
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 215.963px;
+  top: 3023.253px;
+  width: 675px;
+  height: 139px;
+  z-index: 94;
+}
+.sandi_png {
+  background-image: url("newlanding-Recovered-assets/sandi.png");
+  position: absolute;
+  left: 752px;
+  top: 2832px;
+  width: 112px;
+  height: 159px;
+  z-index: 93;
+}
+.Ellipse_2_copy_png {
+  border-style: solid;
+  border-width: 5px;
+  border-color: rgb(255, 255, 255);
+  border-radius: 50%;
+  background-color: rgb(255, 255, 255);
+  opacity: 0.4;
+  position: absolute;
+  left: 748px;
+  top: 2850px;
+  width: 108px;
+  height: 108px;
+  z-index: 92;
+}
+.brane {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 4687px;
+  z-index: 90;
+}
+.Branimir_Akmad�a__Frontend_Developer__Fast_lear {
+  font-size: 30px;
+  font-family: "Lato";
+  color: rgb(0, 0, 0);
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 214.467px;
+  top: 3023.253px;
+  width: 517px;
+  height: 139px;
+  z-index: 89;
+}
+.Ellipse_2_copy_png {
+  border-style: solid;
+  border-width: 5px;
+  border-color: rgb(255, 255, 255);
+  border-radius: 50%;
+  background-color: rgb(255, 255, 255);
+  opacity: 0.4;
+  position: absolute;
+  left: 748px;
+  top: 2850px;
+  width: 108px;
+  height: 108px;
+  z-index: 86;
+}
+.mrzljak {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 4687px;
+  z-index: 84;
+}
+.Nikola_Mrzljak__Backend_Developer__Diligent_and {
+  font-size: 30px;
+  font-family: "Lato";
+  color: rgb(0, 0, 0);
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 215.145px;
+  top: 3023.253px;
+  width: 526px;
+  height: 139px;
+  z-index: 83;
+}
+.Mrzljak_png {
+  background-image: url("newlanding-Recovered-assets/Mrzljak.png");
+  position: absolute;
+  left: 749px;
+  top: 2837px;
+  width: 112px;
+  height: 142px;
+  z-index: 82;
+}
+.Ellipse_2_copy_png {
+  border-style: solid;
+  border-width: 5px;
+  border-color: rgb(255, 255, 255);
+  border-radius: 50%;
+  background-color: rgb(255, 255, 255);
+  opacity: 0.4;
+  position: absolute;
+  left: 748px;
+  top: 2850px;
+  width: 108px;
+  height: 108px;
+  z-index: 81;
+}
+.halambek {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 4687px;
+  z-index: 79;
+}
+.Mario_Halambek___CTO__Living_and_breathing_tech {
+  font-size: 30px;
+  font-family: "Lato";
+  color: rgb(0, 0, 0);
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 215.75px;
+  top: 3023.253px;
+  width: 571px;
+  height: 139px;
+  z-index: 78;
+}
+.halabek_png {
+  background-image: url("newlanding-Recovered-assets/halabek.png");
+  position: absolute;
+  left: 749px;
+  top: 2849px;
+  width: 115px;
+  height: 154px;
+  z-index: 77;
+}
+.Ellipse_2_copy_png {
+  border-style: solid;
+  border-width: 5px;
+  border-color: rgb(255, 255, 255);
+  border-radius: 50%;
+  background-color: rgb(255, 255, 255);
+  opacity: 0.4;
+  position: absolute;
+  left: 748px;
+  top: 2850px;
+  width: 108px;
+  height: 108px;
+  z-index: 76;
+}
+.jupi {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 4687px;
+  z-index: 74;
+}
+.Jurica_Picak__Community_Manager__Genuine_people {
+  font-size: 30px;
+  font-family: "Lato";
+  color: rgb(0, 0, 0);
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 215.111px;
+  top: 3022.253px;
+  width: 581px;
+  height: 139px;
+  z-index: 73;
+}
+.jurica_png {
+  background-image: url("newlanding-Recovered-assets/jurica.png");
+  position: absolute;
+  left: 749px;
+  top: 2844px;
+  width: 117px;
+  height: 135px;
+  z-index: 72;
+}
+.Ellipse_2_copy_png {
+  border-style: solid;
+  border-width: 5px;
+  border-color: rgb(255, 255, 255);
+  border-radius: 50%;
+  background-color: rgb(255, 255, 255);
+  opacity: 0.4;
+  position: absolute;
+  left: 748px;
+  top: 2850px;
+  width: 108px;
+  height: 108px;
+  z-index: 71;
+}
+.ja {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 4687px;
+  z-index: 69;
+}
+.Matej_Pribani�__Lead_Designer__Genuine_people_p {
+  font-size: 30px;
+  font-family: "Lato";
+  color: rgb(0, 0, 0);
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 215.111px;
+  top: 3023.253px;
+  width: 581px;
+  height: 139px;
+  z-index: 68;
+}
+.matej_png {
+  background-image: url("newlanding-Recovered-assets/matej.png");
+  position: absolute;
+  left: 749px;
+  top: 2844px;
+  width: 127px;
+  height: 130px;
+  z-index: 67;
+}
+.Ellipse_2 {
+  border-style: solid;
+  border-width: 5px;
+  border-color: rgb(255, 255, 255);
+  border-radius: 50%;
+  background-color: rgb(255, 255, 255);
+  opacity: 0.4;
+  position: absolute;
+  left: 748px;
+  top: 2850px;
+  width: 108px;
+  height: 108px;
+  z-index: 66;
+}
+.teambg_png {
+  background-image: url("newlanding-Recovered-assets/teambg.png");
+  opacity: 0.102;
+  position: absolute;
+  left: 428px;
+  top: 2840px;
+  width: 741px;
+  height: 395px;
+  z-index: 63;
+}
+.review {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 4687px;
+  z-index: 60;
+}
+.Group_1 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 4687px;
+  z-index: 59;
+}
+.dots {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 4687px;
+  z-index: 58;
+}
+.reviewsliderdot1_png {
+  border-radius: 50%;
+  background-color: rgb(255, 255, 255);
+  opacity: 0.2;
+  position: absolute;
+  left: 814px;
+  top: 2578px;
+  width: 10px;
+  height: 10px;
+  z-index: 57;
+}
+.reviewsliderdot2_png {
+  border-radius: 50%;
+  background-color: rgb(255, 255, 255);
+  opacity: 0.2;
+  position: absolute;
+  left: 794px;
+  top: 2578px;
+  width: 10px;
+  height: 10px;
+  z-index: 56;
+}
+.reviewsliderdot3_png {
+  border-radius: 50%;
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 774px;
+  top: 2578px;
+  width: 10px;
+  height: 10px;
+  z-index: 55;
+}
+.avatar {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 4687px;
+  z-index: 53;
+}
+.reviewavatar_png {
+  background-image: url("newlanding-Recovered-assets/reviewavatar.png");
+  position: absolute;
+  left: 671px;
+  top: 2282px;
+  width: 251px;
+  height: 151px;
+  z-index: 52;
+}
+.reviewavatareclipse_png {
+  border-style: solid;
+  border-width: 5px;
+  border-color: rgb(255, 255, 255);
+  border-radius: 50%;
+  background-color: rgb(255, 255, 255);
+  opacity: 0.4;
+  position: absolute;
+  left: 742px;
+  top: 2284px;
+  width: 108px;
+  height: 108px;
+  z-index: 51;
+}
+._We_do_not_stop_playing_because_we_grow_old___w {
+  font-size: 30px;
+  font-family: "Lato";
+  color: rgb(255, 255, 255);
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 208.389px;
+  top: 2458.5px;
+  width: 560px;
+  height: 112px;
+  z-index: 49;
+}
+.reviewbg_png {
+  background-image: url("newlanding-Recovered-assets/reviewbg.png");
+  opacity: 0.149;
+  position: absolute;
+  left: -1px;
+  top: 2207px;
+  width: 1600px;
+  height: 462px;
+  z-index: 48;
+}
+.purple_review_png {
+  background-image: url("newlanding-Recovered-assets/purple_review.png");
+  position: absolute;
+  left: -1px;
+  top: 2207px;
+  width: 1600px;
+  height: 462px;
+  z-index: 47;
+}
+.mac__ss {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 4687px;
+  z-index: 44;
+}
+.shadow_png {
+  background-image: url("shadow,png.png");
+  opacity: 0.741;
+  position: absolute;
+  left: 406px;
+  top: 2109px;
+  width: 811px;
+  height: 114px;
+  z-index: 43;
+}
+.platform1_png {
+  background-image: url("newlanding-Recovered-assets/platform1.png");
+  position: absolute;
+  left: 409px;
+  top: 1911px;
+  width: 620px;
+  height: 320px;
+  z-index: 42;
+}
+.platform2_png {
+  background-image: url("newlanding-Recovered-assets/platform2.png");
+  position: absolute;
+  left: 545px;
+  top: 1978px;
+  width: 672px;
+  height: 323px;
+  z-index: 41;
+}
+.MacBook_Pro_png {
+  background-image: url("newlanding-Recovered-assets/MacBook Pro.png");
+  position: absolute;
+  left: 227px;
+  top: 1473px;
+  width: 581px;
+  height: 352px;
+  z-index: 40;
+}
+.Mellon_is_the_first_online_school_for_gaming {
+  font-size: 16px;
+  font-family: "Lato";
+  color: rgb(0, 0, 0);
+  line-height: 1.125;
+  text-align: left;
+  position: absolute;
+  left: 841px;
+  top: 1575.34px;
+  z-index: 39;
+}
+.INTRODUCING_MELLON_GAMING_ACADEMY {
+  font-size: 18px;
+  font-family: "Lato";
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  line-height: 1.667;
+  position: absolute;
+  left: 848.391px;
+  top: 1500.997px;
+  z-index: 38;
+}
+.bg_macbook_png {
+  background-image: url("newlanding-Recovered-assets/bg_macbook.png");
+  position: absolute;
+  left: -1px;
+  top: 1327px;
+  width: 1600px;
+  height: 881px;
+  z-index: 37;
+}
+.Personalized_education {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 4687px;
+  z-index: 35;
+}
+.icon {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 4687px;
+  z-index: 34;
+}
+.personalizededucircle_png {
+  background-image: url("newlanding-Recovered-assets/personalizededucircle.png");
+  position: absolute;
+  left: 1157px;
+  top: 992px;
+  width: 107px;
+  height: 107px;
+  z-index: 33;
+}
+.personalized_edu_png {
+  background-color: rgb(0, 0, 0);
+  position: absolute;
+  left: 1181px;
+  top: 1016px;
+  width: 62px;
+  height: 62px;
+  z-index: 31;
+}
+.Use_of_specialized_algorithms_in_tracking_your_ {
+  font-size: 16px;
+  font-family: "Lato";
+  color: rgb(0, 0, 0);
+  line-height: 1.125;
+  text-align: center;
+  position: absolute;
+  left: 1037px;
+  top: 1178.434px;
+  z-index: 30;
+}
+.PERSONALIZED_EDUCATION {
+  font-size: 18px;
+  font-family: "Lato";
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  line-height: 1.667;
+  position: absolute;
+  left: 1085.609px;
+  top: 1110.997px;
+  z-index: 29;
+}
+.private_classrooms {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 4687px;
+  z-index: 27;
+}
+.icon {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 4687px;
+  z-index: 26;
+}
+.privateclassroomcirclet_png {
+  background-image: url("newlanding-Recovered-assets/privateclassroomcirclet.png");
+  position: absolute;
+  left: 747px;
+  top: 992px;
+  width: 107px;
+  height: 107px;
+  z-index: 25;
+}
+.private_classrooms_icon_png {
+  background-image: url("newlanding-Recovered-assets/private classrooms icon.png");
+  position: absolute;
+  left: 771px;
+  top: 1016px;
+  width: 57px;
+  height: 62px;
+  z-index: 23;
+}
+.Join_classes_in_virtual_classrooms_for_more_in_ {
+  font-size: 16px;
+  font-family: "Lato";
+  color: rgb(0, 0, 0);
+  line-height: 1.125;
+  text-align: center;
+  position: absolute;
+  left: 642.36px;
+  top: 1177.981px;
+  z-index: 22;
+}
+.PRIVATE_CLASSROOMS {
+  font-size: 18px;
+  font-family: "Lato";
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  line-height: 1.667;
+  position: absolute;
+  left: 697.609px;
+  top: 1110.997px;
+  z-index: 21;
+}
+.gaming_lectures {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 4687px;
+  z-index: 19;
+}
+.icon {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 4687px;
+  z-index: 18;
+}
+.gaminglecturecircle_png {
+  background-image: url("newlanding-Recovered-assets/gaminglecturecircle.png");
+  position: absolute;
+  left: 336px;
+  top: 992px;
+  width: 107px;
+  height: 107px;
+  z-index: 17;
+}
+.gaminglectureicon {
+  background-color: rgb(0, 0, 0);
+  position: absolute;
+  left: 355px;
+  top: 1013px;
+  width: 71px;
+  height: 68px;
+  z-index: 16;
+}
+.We_offer_free_professional_educational_content_ {
+  font-size: 16px;
+  font-family: "Lato";
+  color: rgba(0, 0, 0, 0.702);
+  line-height: 1.125;
+  text-align: center;
+  position: absolute;
+  left: 243.859px;
+  top: 1177.981px;
+  z-index: 14;
+}
+.GAMING_LECTURES {
+  font-size: 18px;
+  font-family: "Lato";
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  line-height: 1.667;
+  position: absolute;
+  left: 302.437px;
+  top: 1110.997px;
+  z-index: 13;
+}
+.Footer {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1600px;
+  height: 4687px;
+  z-index: 10;
+}
+.Layer_16_png {
+  background-image: url("newlanding-Recovered-assets/Layer 16.png");
+  opacity: 0.6;
+  position: absolute;
+  left: -1px;
+  top: 4594px;
+  width: 1600px;
+  height: 1px;
+  z-index: 9;
+}
+.DESIGN_BY:WWW:MELLON:GA {
+  font-size: 14px;
+  font-family: "Lato";
+  color: rgb(139, 139, 139);
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 1114px;
+  top: 4632.6px;
+  z-index: 8;
+}
+.�2016_Mellon_All_Rights_Reserved_ {
+  font-size: 14px;
+  font-family: "Lato";
+  color: rgba(139, 139, 139, 0.502);
+  line-height: 1.2;
+  text-align: center;
+  position: absolute;
+  left: 202px;
+  top: 4632.835px;
+  z-index: 7;
+}
+.bg_copy_png {
+  background-image: url("newlanding-Recovered-assets/bg copy.png");
+  position: absolute;
+  left: -1px;
+  top: 4594px;
+  width: 1600px;
+  height: 93px;
+  z-index: 6;
+}
+.Rounded_Rectangle_2_png {
+  border-radius: 10px;
+  background-color: rgb(231, 231, 231);
+  position: absolute;
+  left: -68px;
+  top: 2639px;
+  width: 1800px;
+  height: 777px;
+  z-index: 5;
+}
+.bg {
+  background-image: url("/home/zoran/Job/landing/landing/static/public/images/bg.png");
+  position: absolute;
+  left: -1px;
+  top: 0px;
+  width: 1600px;
+  height: 4687px;
+  z-index: 4;
+}
