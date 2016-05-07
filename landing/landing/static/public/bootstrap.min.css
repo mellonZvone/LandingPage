@@ -4305,12 +4305,12 @@ textarea.input-group-sm>.input-group-btn>.btn {
 }
 .navbar-fixed-bottom .navbar-collapse,
 .navbar-fixed-top .navbar-collapse {
-    max-height: 140px
+    max-height: 340px
 }
 @media (max-device-width: 480px) and (orientation: landscape) {
     .navbar-fixed-bottom .navbar-collapse,
     .navbar-fixed-top .navbar-collapse {
-        max-height: 100px
+        max-height: 200px
     }
 }
 .container-fluid>.navbar-collapse,
@@ -4318,7 +4318,8 @@ textarea.input-group-sm>.input-group-btn>.btn {
 .container>.navbar-collapse,
 .container>.navbar-header {
     margin-right: -15px;
-    margin-left: -15px
+    margin-left: -15px;
+    margin-top: -12px;
 }
 @media (min-width: 768px) {
     .container-fluid>.navbar-collapse,
@@ -4344,7 +4345,7 @@ textarea.input-group-sm>.input-group-btn>.btn {
     right: 0;
     left: 0;
     z-index: 1030;
-    height: 120px;
+
 }
 @media (min-width: 768px) {
     .navbar-fixed-bottom,navbar-fixed-top
@@ -4363,8 +4364,7 @@ textarea.input-group-sm>.input-group-btn>.btn {
 }
 .navbar-brand {
     float: left;
-    height: 50%;
-    width: 50%;
+    height: 50px;
     padding: 15px 15px;
     font-size: 18px;
     line-height: 20px
@@ -4452,8 +4452,8 @@ textarea.input-group-sm>.input-group-btn>.btn {
         float: left
     }
     .navbar-nav>li>a {
-        padding-top: 15px;
-        padding-bottom: 15px
+        padding-top: 1px;
+        padding-bottom: 1px
     }
 }
 .navbar-form {
@@ -6848,6 +6848,13 @@ height:auto
 @media print {
     .hidden-print {
         display: none!important
+    }
+}
+
+
+@media (max-width: 768px) {
+    .navbar-nav {
+        margin-top: -37px;
     }
 }
 /*# sourceMappingURL=bootstrap.min.css.map */

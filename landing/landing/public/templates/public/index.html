@@ -7,19 +7,19 @@
 <html lang="en">
 
 <head>
-
+    <link rel="icon" href="{% static 'public/images/favicon.png' %}"
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="">
     <meta name="author" content="">
 
+
     <title>Mellon</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">
-    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
-  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+
+
     <!-- Bootstrap Core CSS -->
     <link href="{% static 'public/bootstrap.min.css' %}" rel="stylesheet">
 
@@ -28,7 +28,7 @@
    <!-- <link rel="stylesheet" href="{% static 'public/CSS-Landing.css' %}" >
 
     <!-- Custom Fonts -->
-    <link href="{% static 'public/font-awesome.min.css' %}" rel="stylesheet" type="text/css">
+
     <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
     <link href='https://fonts.googleapis.com/css?family=Kaushan+Script' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
@@ -37,8 +37,7 @@
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
-        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+
     <![endif]-->
 
     <style>
@@ -58,30 +57,23 @@
         <div class="container">
             <!-- Brand and toggle get grouped for better mobile display -->
             <div class="navbar-header page-scroll">
-                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-                    <span class="sr-only">Toggle navigation</span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                </button>
+
                 <a class="navbar-brand page-scroll" href="#page-top"><img class="logoheader" height="50" src="{% static 'public/images/logo_header.png' %}"></a>
 
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
-            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <div class="navbar-default">
                 <ul class="nav navbar-nav navbar-right">
-                    <li class="hidden">
-                        <a href="#page-top"></a>
+                    <li>
+                        <a class="btn btn-l pull-right " href="http://beta.mellon-gaming.com/">Log in</a>
                     </li>
                     <li>
-                        <a  href="http://beta.mellon-gaming.com/">Log in</a>
-                    </li>
-                    <li>
-                        <a href="http://beta.mellon-gaming.com/registration/">Sign up</a>
+                        <a class="btn btn-l pull-right hidden-xs" href="http://beta.mellon-gaming.com/registration/">Sign up</a>
                     </li>
                 </ul>
             </div>
+
             <!-- /.navbar-collapse -->
         </div>
         <!-- /.container-fluid -->
@@ -93,18 +85,19 @@
             <div class="intro-text">
                 <div class="intro-lead-in">Learn from the best proffesional gamers in the world for free!</div>
                 <div class="intro-heading">FIRST ONLINE GAMING ACADEMY</div>
-		<div class="intro-heading">BECOME ONE OF THE FIRST USERS OF THE PLATFORM NOW AND HAVE PRIVILAGES LATER</div>
-                <a href="http://beta.mellon-gaming.com/" class="page-scroll btn btn-xl ">APPLY FOR BETA</a>
-		<a id="btnglow" href="#services" class="page-scroll btn btn-xl">LEARN MORE</a>
+		        <div class="intro-heading">BECOME ONE OF THE FIRST USERS OF THE PLATFORM NOW AND HAVE PRIVILAGES LATER</div>
+                <div class="row">
+                        <a href="http://beta.mellon-gaming.com/" class="page-scroll btn btn-xl btnspace">JOIN NOW</a>
+		                <a href="#contacttest" class="page-scroll btn btn-xl btnspace">CONTACT US</a>
+                </div>
+
             </div>
-            <img class="img-responsive shadow" src="{% static 'public/images/shadow.png' %}">
         </div>
     </header>
 
     <!-- Services Section -->
     <section id="services">
         <div class="container">
-
             <div class="row text-center">
                 <div class="col-md-4">
                     <span class="fa-stack fa-4x">
@@ -149,7 +142,8 @@
             </div>
 
             <div class="row">
-                <img class="img-responsive platform" src="{% static 'public/images/platform2-1.png' %}">
+                </br>
+                <img class="img-responsive img-centered" src="{% static 'public/images/platform121.png' %}">
             </div>
         </div>
 
@@ -420,6 +414,34 @@ Hearthstone rank - 2</p>
                         </ul>
                     </div>
                 </div>
+                <div class="col-sm-6">
+                    <div class="team-member">
+                        <img src="" class="img-responsive img-circle" alt="">
+                        <h4>Matej Pribanić</h4>
+                        <p class="text-muted">Lead Designer</p>
+                        <p class="text-muted"></p>
+                        <ul class="list-inline social-buttons">
+                            <li><a href="https://www.facebook.com/akoovocitasglupsi?fref=ts"><i class="fa fa-facebook"></i></a>
+                            </li>
+                            <li><a href=""><i class="fa fa-linkedin"></i></a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-sm-6">
+                    <div class="team-member">
+                        <img src="{% static 'public/images/DSC_3630.jpg' %}" class="img-responsive img-circle" alt="">
+                        <h4>Zoran Medić</h4>
+                        <p class="text-muted">FrontEnd Developer</p>
+                        <p class="text-muted"></p>
+                        <ul class="list-inline social-buttons">
+                            <li><a href="https://www.facebook.com/akoovocitasglupsi?fref=ts"><i class="fa fa-facebook"></i></a>
+                            </li>
+                            <li><a href=""><i class="fa fa-linkedin"></i></a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
             </div>
         </div>
     </section>
@@ -430,7 +452,9 @@ Hearthstone rank - 2</p>
             <div class="row">
                 <h2 class="text-center   section-heading">Our partnerships</h2>
                     <a href="https://www.facebook.com/kazna.kru/?__mref=message_bubble">
+                        <div id="contacttest"></div>
                         <img src="{% static 'public/images/kazna_logo.png' %}" class="img-responsive img-centered" height="50" width="100" alt="steelseries logo">
+
                     </a>
 
                 <h5 class="text-center">You'r logo can be here</h5>
@@ -448,6 +472,7 @@ Hearthstone rank - 2</p>
 
             </div>
         </div>
+
     </aside>
 
     <!-- Contact Section -->
@@ -695,6 +720,7 @@ Hearthstone rank - 2</p>
     <!-- Bootstrap Core JavaScript -->
     <script src="{% static 'public/bootstrap.min.js' %}"></script>
 
+
     <!-- Plugin JavaScript -->
     <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
     <script src="{% static 'public/classie.js' %}"></script>
@@ -706,6 +732,8 @@ Hearthstone rank - 2</p>
 
     <!-- Custom Theme JavaScript -->
     <script src="{% static 'public/agency.js' %}"></script>
+    <script scr="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+
 
 </body>
 
