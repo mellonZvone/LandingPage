@@ -58,7 +58,8 @@
             <!-- Brand and toggle get grouped for better mobile display -->
             <div class="navbar-header page-scroll">
 
-                <a class="navbar-brand page-scroll" href="#page-top"><img class="logoheader" height="50" src="{% static 'public/images/logo_header.png' %}"></a>
+                <a class="navbar-header page-scroll col-sm-4 nopadding" href="#page-top"><img class="logoheader" height="50" src="{% static 'public/images/logo_header.png' %}"></a>
+                <a class="navbar-header page-scroll col-sm-8 nopadding hidden-xs" href="#page-top"><img class="logoheader" height="40" src="{% static 'public/images/zokimelon.png' %}"></a>
 
             </div>
 
@@ -138,7 +139,7 @@
                 </br>
                 <p class="text-muted Mellon_is_the_first_online_school_for_gaming">Mellon is the first online gaming academy. Learn from the best professonal gamers in the world for free and improve your techniques and strategies.</p>
                 </br>
-                <p class="text-muted Mellon_is_the_first_online_school_for_gaming">Mellon supports most played competitive games. Our courses are current and relevent in the dynamic eSports environment. Along existing games, we are also following new releases to make sure you can earn your favourite game.</p>
+                <p class="text-muted Mellon_is_the_first_online_school_for_gaming">Mellon supports most played competitive games. Our courses are current and relevent in the dynamic eSports environment. Along existing games, we are also following new releases to make sure you can learn your favourite game.</p>
             </div>
 
             <div class="row">
@@ -242,21 +243,22 @@
             <div class="item active">
                 <div class="fill"><img class="responsive slider"  src="{% static 'public/images/purple_review.png' %}"></div>
                 <div class="carousel-caption">
-                    <img class="responsive" src="{% static 'public/images/reviewavatar.png' %}">
-                    <h4>"We don't stop playing because we grow old, we grow old because we stop playing!"</h4>
-                    <h6>-Alessandra Doe, Mellon-</h6>
+                    <img class="img-responsive img-circle img-centered" src="{% static 'public/images/veca.png' %}">
+                    <h4>"In the world of eSports, this is a must-have!"</h4>
+                    <h6>-Veco, KaznaKru-</h6>
                 </div>
             </div>
             <div class="item">
                 <div class="fill"><img class="responsive slider"  src="{% static 'public/images/purple_review.png' %}"></div>
                 <div class="carousel-caption">
-
+                    <img class="img-responsive img-centered" src="{% static 'public/images/web01.png' %}">
                     <h2>Caption 2</h2>
                 </div>
             </div>
             <div class="item">
                 <div class="fill"><img class="responsive slider"  src="{% static 'public/images/purple_review.png' %}"></div>
                 <div class="carousel-caption">
+                    <img class="img-responsive img-centered" src="{% static 'public/images/web01.png' %}">
                     <h2>Caption 3</h2>
                 </div>
             </div>
@@ -370,14 +372,14 @@
             <div class="row">
                 <div class="col-sm-4">
                     <div class="team-member">
-                        <img src="{% static 'public/images/sandi.png' %}" class="img-responsive img-circle" alt="">
+                        <img src="{% static 'public/images/sandi.jpg' %}" class="img-responsive img-circle" width="130"  alt="sandi">
                         <h4>Sandi Fatic</h4>
                         <p class="text-muted">CEO and spiritual leader.</p>
-                        <p class="text-muted">Skillful software engineer and excellent team leader.
-DotA 2 MMR - 4438 </p>
+                        <p class="text-muted">Skillful software engineer and excellent team leader.</p>
                         <ul class="list-inline social-buttons">
                             <li><a href="https://www.facebook.com/sandi.fatic?fref=ts"><i class="fa fa-facebook"></i></a>
                             </li>
+                            <li><a href="mailto:zomedic@hotmail.com" class="fa fa-envelope-o" aria-hidden="true"></a>  </li>
                             <li><a href="https://www.linkedin.com/in/sfatic?authType=NAME_SEARCH&authToken=kaKj&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A245199988%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1462201337134%2Ctas%3Asandi"><i class="fa fa-linkedin"></i></a>
                             </li>
 
@@ -389,8 +391,7 @@ DotA 2 MMR - 4438 </p>
                         <img src="{% static 'public/images/halabek.png' %}" class="img-responsive img-circle" alt="">
                         <h4>Mario Halambek</h4>
                         <p class="text-muted">CTO</p>
-                        <p class="text-muted">Living and breathing technical encyclopedia.
-StarCraft II rank - Platinum</p>
+                        <p class="text-muted">Living and breathing technical encyclopedia.</p>
                         <ul class="list-inline social-buttons">
                             <li><a href="https://www.facebook.com/mario.halambek.9?fref=ts"><i class="fa fa-facebook"></i></a>
                             </li>
@@ -401,11 +402,10 @@ StarCraft II rank - Platinum</p>
                 </div>
                 <div class="col-sm-4">
                     <div class="team-member">
-                        <img src="{% static 'public/images/jurica.png' %}" class="img-responsive img-circle" alt="">
+                        <img src="{% static 'public/images/jupica.png' %}" class="img-responsive img-circle" alt="">
                         <h4>Jurica Picak</h4>
                         <p class="text-muted">CMO</p>
-                        <p class="text-muted">Genuine people person and obsessive gamer.
-Hearthstone rank - 2</p>
+                        <p class="text-muted">Genuine people person and obsessive gamer.</p>
                         <ul class="list-inline social-buttons">
                             <li><a href="https://www.facebook.com/Jurica.Picak"><i class="fa fa-facebook"></i></a>
                             </li>
@@ -414,11 +414,14 @@ Hearthstone rank - 2</p>
                         </ul>
                     </div>
                 </div>
+            </div>
+            <div class="row">
                 <div class="col-sm-6">
-                    <div class="team-member">
-                        <img src="" class="img-responsive img-circle" alt="">
+                    <div class="team-member1">
+                        <img src="{% static 'public/images/ja.png' %}" class="img-responsive img-circle" width="130" alt="">
                         <h4>Matej Pribanić</h4>
-                        <p class="text-muted">Lead Designer</p>
+                        <p class="text-muted">Lead Graphic Designer</p>
+                        <p class="text-muted">Can transofrm any verbal idea to a visual concept.</p>
                         <p class="text-muted"></p>
                         <ul class="list-inline social-buttons">
                             <li><a href="https://www.facebook.com/akoovocitasglupsi?fref=ts"><i class="fa fa-facebook"></i></a>
@@ -429,15 +432,16 @@ Hearthstone rank - 2</p>
                     </div>
                 </div>
                 <div class="col-sm-6">
-                    <div class="team-member">
+                    <div class="team-member2">
                         <img src="{% static 'public/images/DSC_3630.jpg' %}" class="img-responsive img-circle" alt="">
                         <h4>Zoran Medić</h4>
                         <p class="text-muted">FrontEnd Developer</p>
+                        <p class="text-muted">Diligent and hardworking developer.</p>
                         <p class="text-muted"></p>
                         <ul class="list-inline social-buttons">
-                            <li><a href="https://www.facebook.com/akoovocitasglupsi?fref=ts"><i class="fa fa-facebook"></i></a>
+                            <li><a href="https://www.facebook.com/zokivg"><i class="fa fa-facebook"></i></a>
                             </li>
-                            <li><a href=""><i class="fa fa-linkedin"></i></a>
+                            <li><a href="https://www.linkedin.com/in/zoran-medic-513455120?trk=nav_responsive_tab_profile_pic"><i class="fa fa-linkedin"></i></a>
                             </li>
                         </ul>
                     </div>
@@ -452,8 +456,8 @@ Hearthstone rank - 2</p>
             <div class="row">
                 <h2 class="text-center   section-heading">Our partnerships</h2>
                     <a href="https://www.facebook.com/kazna.kru/?__mref=message_bubble">
-                        <div id="contacttest"></div>
-                        <img src="{% static 'public/images/kazna_logo.png' %}" class="img-responsive img-centered" height="50" width="100" alt="steelseries logo">
+
+                        <img src="{% static 'public/images/kazna_logo.png' %}" class="img-responsive img-centered" height="50" width="100" id="contacttest" alt="steelseries logo">
 
                     </a>
 
@@ -530,6 +534,7 @@ Hearthstone rank - 2</p>
                         </li>
                         <li><a href="https://www.linkedin.com/company/10481141?trk=prof-0-ovw-curr_pos"><i class="fa fa-linkedin"></i></a>
                         </li>
+                        <li><a href="https://www.youtube.com/channel/UCZOhGqeQPIbtFREmfwh2K_Q"><i class="fa fa-youtube"></i> </a> </li>
                     </ul>
                 </div>
                 <div class="col-md-4">

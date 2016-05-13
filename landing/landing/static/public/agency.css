@@ -242,7 +242,8 @@ box-shadow: 0 0 30px #FF00AF;
 	.navbar-default.navbar-shrink
 	{
 		background-color: #222;
-		padding: 10px 0px;
+		padding: 1px 0px;
+		background-image: url(images/)
 
 	}
 	.navbar-default.navbar-shrink .navbar-brand
@@ -267,7 +268,7 @@ box-shadow: 0 0 30px #FF00AF;
 #headertop
 {
 	background-attachment: scroll;
-	background-image: url(images/bg1.jpg);
+	background-image: url(images/bg11.png);
 	background-position: center center;
 	background-repeat: none;
 	background-size: cover;
@@ -298,7 +299,7 @@ header .intro-text .intro-heading
 	font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
 	font-size: 20px;
 	font-weight: 700;
-	line-height: 50px;
+	line-height: 30px;
 	margin-bottom: 25px;
 	text-transform: uppercase;
 }
@@ -335,6 +336,10 @@ section
 
 section#about{
     max-height: 700px;
+    padding-top: 70px;
+    padding-bottom: 70px;
+    padding-left: 0px;
+    padding-right: 0px;
 }
 
 section h2.section-heading
@@ -662,6 +667,55 @@ section h3.section-subheading
 {
 	margin-top: 0;
 }
+
+.team-member1
+{
+	margin-bottom: 50px;
+	text-align: center;
+
+}
+.team-member1 img
+{
+	border: 7px solid #fff;
+	margin: 0 auto;
+}
+.team-member1 h4
+{
+	margin-bottom: 0;
+	margin-top: 25px;
+	text-transform: none;
+}
+.team-member1 p
+{
+	margin-top: 0;
+}
+
+
+.team-member2
+{
+	margin-bottom: 50px;
+	text-align: center;
+
+}
+.team-member2 img
+{
+	border: 7px solid #fff;
+	margin: 0 auto;
+}
+.team-member2 h4
+{
+	margin-bottom: 0;
+	margin-top: 25px;
+	text-transform: none;
+}
+.team-member2 p
+{
+	margin-top: 0;
+}
+
+
+
+
 aside.clients img
 {
 	margin: 50px auto;
@@ -775,7 +829,7 @@ ul.social-buttons li a
 }
 ul.social-buttons li a:hover,ul.social-buttons li a:focus,ul.social-buttons li a:active
 {
-	background-color: #B200BC;
+	background-color: #FF00AF;
 }
 .btn:focus,.btn:active,.btn.active,.btn:active:focus
 {
@@ -947,4 +1001,43 @@ height: 300px;
 
 .btnspace{
 margin-right: 30px;
+}
+
+
+@media( max-width: 768px){
+    .btn-l{
+    margin-right: 40px;
+    }
+    .btn-xlbottom{
+    padding: 0px;
+
+    }
+    .btnspace{
+    margin-right: 0px;
+    margin-top: 10px;
+    }
+}
+
+@media(min-width: 768px){
+    .team-member1{
+    margin-right: -70px;
+    }
+    .team-member2{
+    margin-left: -70px;
+    }
+}
+
+@media(min-width: 991px){
+    .team-member1{
+
+    }
+    .team-member2{
+
+    }
+}
+
+.nopadding{
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+    padding-top: 20px;
 }
